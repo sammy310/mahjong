@@ -25,6 +25,23 @@
 1. 울면 마지막 패가 벌어져서 출력됨
 ```
 
+---
+
+## 이미지
+![main](./image/main.JPG)
+
+![rule](./image/rule.JPG)
+![game_ruleSelect](./image/game_ruleSelect.JPG)
+
+![game_1](./image/game_1.JPG)
+![game_2](./image/game_2.JPG)
+![game_3](./image/game_3.JPG)
+![game_4](./image/game_4.JPG)
+![game_5](./image/game_5.JPG)
+![game_6](./image/game_6.JPG)
+![game_7](./image/game_7.JPG)
+![game_8](./image/game_8.JPG)
+
 - - -
 
 ### ※출처※
